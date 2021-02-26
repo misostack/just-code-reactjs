@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "yarn": "~1.22"
+  },
+  "devDependencies": {
+    "eslint-plugin-promise": "^4.3.1"
   }
 }
